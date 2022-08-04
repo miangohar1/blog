@@ -1,0 +1,16 @@
+<div id="<%= dom_id shaam %>">
+  <p>
+    <strong>Title:</strong>
+    <%= shaam.title %>
+  </p>
+
+  <%#=shaam.body %>
+  
+  <br>
+  
+  <%=shaam.image %>
+    <hr>
+  <%=shaam.pictures.each do |picture| %>
+    <%=picture%>
+    <% end %>
+</div>

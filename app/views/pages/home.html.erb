@@ -1,0 +1,14 @@
+<h1>Pages home</h1>
+  
+  <% if current_user %>
+<p> Hello <%= current_user.email %> </p>
+<p>
+	You Have Succesfully Loged in </p>
+
+	<% else %>
+	<p> you are not signed in</p>
+	<%= link_to "Sign up!", new_user_registration_path %>
+	<br>
+	<%= link_to "Log in!" , new_user_session_path %>
+
+	<%end%>

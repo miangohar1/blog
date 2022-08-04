@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"art",
+				"article"
+			],
+			[
+				"p",
+				"pictures"
+			],
+			[
+				"act",
+				"active_storage"
+			],
+			[
+				"new_user",
+				"new_user_registration_path"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"st",
+				"styles"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"tab",
+				"table-layout"
+			],
+			[
+				"col",
+				"col-sm-3"
+			],
+			[
+				"sm",
+				"col-sm-3"
+			],
+			[
+				"T",
+				"table"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"col-sm",
+				"col-sm-9"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"hea",
+				"header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gohar/blog/app/assets/config/manifest.js",
+		"/home/gohar/projects/blog/Gemfile",
+		"/home/gohar/blog/app/controllers/comments_controller.rb",
+		"/home/gohar/blog/app/controllers/shaams_controller.rb",
+		"/home/gohar/blog/app/views/shaams/_form.html.erb",
+		"/home/gohar/blog/app/models/shaam.rb",
+		"/home/gohar/blog/config/routes.rb",
+		"/home/gohar/blog/app/models/application_record.rb",
+		"/home/gohar/blog/app/views/shaams/_shaam.html.erb",
+		"/home/gohar/blog/app/views/articles/_form.html.erb",
+		"/home/gohar/blog/app/controllers/articles_controller.rb",
+		"/home/gohar/blog/app/models/article.rb",
+		"/home/gohar/blog/db/migrate/20220802142926_create_active_storage_tables.active_storage.rb",
+		"/home/gohar/blog/db/migrate/20220802154111_create_shaams.rb",
+		"/home/gohar/blog/db/schema.rb",
+		"/home/gohar/blog/test/fixtures/shaams.yml",
+		"/home/gohar/blog/Gemfile",
+		"/home/gohar/blog/config/storage.yml",
+		"/home/gohar/blog/app/views/layouts/application.html.erb",
+		"/home/gohar/blog/config/environments/development.rb",
+		"/home/gohar/blog/test/models/user_test.rb",
+		"/home/gohar/blog/app/models/user.rb",
+		"/home/gohar/blog/test/fixtures/users.yml",
+		"/home/gohar/blog/config/application.rb",
+		"/home/gohar/blog/app/controllers/application_controller.rb",
+		"/home/gohar/blog/app/views/pages/home.html.erb",
+		"/home/gohar/blog/app/models/role.rb",
+		"/home/gohar/blog/db/migrate/20220728110508_rolify_create_roles.rb",
+		"/home/gohar/blog/test/application_system_test_case.rb",
+		"/home/gohar/blog/config/initializers/devise.rb",
+		"/home/gohar/blog/app/views/articles/index.html.erb",
+		"/home/gohar/blog/app/views/devise/registrations/new.html.erb",
+		"/home/gohar/blog/config/environments/production.rb",
+		"/home/gohar/blog/app/models/comment.rb",
+		"/home/gohar/blog/app/views/comments/_form.html.erb",
+		"/home/gohar/blog/app/views/comments/_comment.html.erb",
+		"/home/gohar/blog/app/models/concerns/visible.rb",
+		"/home/gohar/blog/app/views/articles/show.html.erb",
+		"/home/gohar/blog/app/views/article/show.html.erb",
+		"/home/gohar/blog/app/views/article/index.html.erb",
+		"/home/gohar/blog/app/views/article/edit.html.erb",
+		"/home/gohar/blog/app/views/article/new.html.erb",
+		"/home/gohar/blog/app/views/article/_form.html.erb",
+		"/home/gohar/blog/app/views/show.html.erb",
+		"/home/gohar/projects/myapp/db/migrate/20220725145547_create_articles.rb",
+		"/home/gohar/projects/myapp/app/models/article.rb",
+		"/home/gohar/projects/myapp/app/views/layouts/application.html.erb",
+		"/home/gohar/projects/myapp/config/routes.rb",
+		"/home/gohar/projects/myapp/app/controllers/home_controller.rb",
+		"/home/gohar/projects/myapp/app/views/home/about.html.erb",
+		"/home/gohar/projects/myapp/app/views/home/index.html.erb",
+		"/home/gohar/projects/myapp/config/database.yml",
+		"/home/gohar/projects/myapp/Gemfile",
+		"/home/gohar/Desktop/html_task/js/myscript.js",
+		"/home/gohar/Desktop/html_task/index.html",
+		"/home/gohar/Desktop/html_task/ic-user-loc2.png",
+		"/home/gohar/Desktop/html_task/ic-usermgt2.png",
+		"/home/gohar/Desktop/html_task/ic-supplier2.png",
+		"/home/gohar/Desktop/html_task/ic-role2.png",
+		"/home/gohar/Desktop/html_task/ic-po2.png",
+		"/home/gohar/Desktop/html_task/ic-invoice2.png",
+		"/home/gohar/Desktop/html_task/ic-gear2.png",
+		"/home/gohar/Desktop/html_task/ic-epr2.png",
+		"/home/gohar/Desktop/html_task/ic-discount2.png",
+		"/home/gohar/Desktop/html_task/ic-dashboard2.png",
+		"/home/gohar/Desktop/html_task/Faureelogo.png",
+		"/home/gohar/Desktop/html_task/profile.png",
+		"/home/gohar/Desktop/html_task/indexjs.html",
+		"/home/gohar/Desktop/new folder/index.html",
+		"/home/gohar/Desktop/new folder/indexjs.html",
+		"/home/gohar/Desktop/new folder/js/myscript.js",
+		"/home/gohar/Desktop/new folder/inff.html",
+		"/home/gohar/Desktop/new folder/behaviour.js",
+		"/home/gohar/Desktop/new folder/css/style.css",
+		"/home/gohar/Desktop/new folder/index1.html",
+		"/home/gohar/Desktop/new folder/css/bootstrap-grid.css",
+		"/home/gohar/Desktop/new folder/untitled]"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"active",
+				"db/migrate/20220802142926_create_active_storage_tables.active_storage.rb"
+			],
+			[
+				"shaam",
+				"app/controllers/shaams_controller.rb"
+			],
+			[
+				"for",
+				"app/views/articles/_form.html.erb"
+			],
+			[
+				"form",
+				"app/views/shaams/_form.html.erb"
+			],
+			[
+				"artic",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"sha",
+				"test/fixtures/shaams.yml"
+			],
+			[
+				"use",
+				"test/models/user_test.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"us",
+				"test/fixtures/users.yml"
+			],
+			[
+				"application.",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application",
+				"config/application.rb"
+			],
+			[
+				"ap",
+				"config/application.rb"
+			],
+			[
+				"article",
+				"app/controllers/articles_controller.rb"
+			],
+			[
+				"devi",
+				"config/initializers/devise.rb"
+			],
+			[
+				"users",
+				"test/fixtures/users.yml"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"database",
+				"config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 420.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

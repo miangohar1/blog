@@ -1,0 +1,39 @@
+<%= form_with(model: shaam) do |form| %>
+  <% if shaam.errors.any? %>
+    <div style="color: red">
+      <h2><%= pluralize(shaam.errors.count, "error") %> prohibited this shaam from being saved:</h2>
+
+      <ul>
+        <% shaam.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div>
+    <%= form.label :title, style: "display: block" %>
+    <%= form.text_field :title %>
+  </div>
+
+
+  <div>
+  <%# form.rich_text_area :body %>  
+
+  </div>
+  
+<div>
+  <%= form.label :image %>  
+  <%= form.file_field :image %>
+  </div>
+
+  
+<div>
+  <%= form.label :pictures %>  
+  <%= form.file_field :pictures , mutiple: true %>
+  </div>
+
+  <div>
+    <%= form.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @shaam %>
+
+<div>
+  <%= link_to "Edit this shaam", edit_shaam_path(@shaam) %> |
+  <%= link_to "Back to shaams", shaams_path %>
+
+  <%= button_to "Destroy this shaam", @shaam, method: :delete %>
+</div>
