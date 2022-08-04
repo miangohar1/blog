@@ -75,4 +75,13 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
+
+# group :production do
+#   gem 'exception_notification'
+# end
+gem 'dotenv-rails', '~> 2.7.6', require: 'dotenv/rails-now'
+# gem "jsbundling-rails", "~> 1.0"
+
+
+
 end
