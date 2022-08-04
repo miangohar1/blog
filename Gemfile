@@ -44,7 +44,7 @@ gem "bootsnap", require: false
 
 gem 'devise'
 
-gem "rolify"
+gem "rolify" 
 
 
 
